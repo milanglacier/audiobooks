@@ -1,0 +1,3 @@
+[submodule "rust-audiobook"]
+	path = rust-audiobook
+	url = https://github.com/milanglacier/rust-audiobook.git
