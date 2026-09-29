@@ -14,6 +14,12 @@ pointers, async and Tokio, and the wider ecosystem. Every chapter has a
 transcript that highlights the paragraph being read aloud. Listen at
 <https://rust-audiobook.vercel.app>.
 
+### [hard-crane-appreciation](https://github.com/milanglacier/hard-crane-appreciation)
+
+A Chinese-language audiobook project for appreciating Hart Crane's poetry. Its
+book setup and Vercel build are ready; the outline and chapters will be written
+later. Source notes are kept locally outside Git.
+
 ## Development
 
 Each top-level directory is a git submodule pointing at its own repository.
