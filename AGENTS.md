@@ -10,7 +10,7 @@ Format: submodule | GitHub repo | has AGENTS.md. Before working on a
 submodule, you MUST read its local AGENTS.md if it has one.
 
 - rust-audiobook | github.com/milanglacier/rust-audiobook | yes
-- hard-crane-appreciation | github.com/milanglacier/hard-crane-appreciation | yes
+- hart-crane-appreciation | github.com/milanglacier/hart-crane-appreciation | yes
 
 ## Agent rules
 

@@ -14,7 +14,7 @@ pointers, async and Tokio, and the wider ecosystem. Every chapter has a
 transcript that highlights the paragraph being read aloud. Listen at
 <https://rust-audiobook.vercel.app>.
 
-### [hard-crane-appreciation](https://github.com/milanglacier/hard-crane-appreciation)
+### [hart-crane-appreciation](https://github.com/milanglacier/hart-crane-appreciation)
 
 A Chinese-language audiobook project for appreciating Hart Crane's poetry. Its
 book setup and Vercel build are ready; the outline and chapters will be written

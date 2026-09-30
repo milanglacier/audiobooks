@@ -1,6 +1,6 @@
 [submodule "rust-audiobook"]
 	path = rust-audiobook
 	url = https://github.com/milanglacier/rust-audiobook.git
-[submodule "hard-crane-appreciation"]
-	path = hard-crane-appreciation
-	url = https://github.com/milanglacier/hard-crane-appreciation.git
+[submodule "hart-crane-appreciation"]
+	path = hart-crane-appreciation
+	url = https://github.com/milanglacier/hart-crane-appreciation.git
