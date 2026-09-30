@@ -16,9 +16,13 @@ transcript that highlights the paragraph being read aloud. Listen at
 
 ### [hart-crane-appreciation](https://github.com/milanglacier/hart-crane-appreciation)
 
-A Chinese-language audiobook project for appreciating Hart Crane's poetry. Its
-book setup and Vercel build are ready; the outline and chapters will be written
-later. Source notes are kept locally outside Git.
+A Chinese-language audiobook that reads Hart Crane's poetry closely, pitched at
+a university literature student. Its six chapters open with an introduction to
+Crane, then work through the *Voyages* sequence, "To Brooklyn Bridge" and
+"Atlantis" from *The Bridge*, and "The Broken Tower". Crane's lines are quoted
+in English and read by an English voice, while the commentary is narrated in
+Mandarin. Every chapter has a transcript that highlights the paragraph being
+read aloud. Source notes are kept locally outside Git.
 
 ## Development
 
